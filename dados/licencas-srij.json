@@ -1,0 +1,721 @@
+{
+ "fonte": "https://www.srij.turismodeportugal.pt/pt/jogos-e-apostas-online/entidades-licenciadas",
+ "lista_srij_atualizada_em": "2026-09-14",
+ "consultada_em": "2026-10-03",
+ "licenca": "CC BY 4.0",
+ "citar_como": "JogaLegal (https://www.jogalegal.com), a partir da lista oficial do SRIJ",
+ "licenciadas": [
+  {
+   "marca": "888",
+   "website": "www.888.pt",
+   "entidade": "888 PORTUGAL LIMITED",
+   "licencas": [
+    {
+     "numero": "016",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas, Póquer em modo de torneio, Póquer não bancado na variante «Hold´em», Póquer não bancado na variante «Omaha», Póquer sem descarte e Roleta Francesa)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Jogos de máquinas",
+    "Póquer em modo de torneio (incluindo em regime de liquidez partilhada)",
+    "Póquer na variante «Hold´em» (incluindo em regime de liquidez partilhada)",
+    "Póquer na variante «Omaha» (incluindo em regime de liquidez partilhada)",
+    "Póquer sem descarte",
+    "Roleta francesa"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/888-e-legal-em-portugal/"
+  },
+  {
+   "marca": "BacanaPlay",
+   "website": "www.bacanaplay.pt",
+   "entidade": "SKILL ON NET LIMITED",
+   "licencas": [
+    {
+     "numero": "025",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas, Blackjack/21, Roleta francesa e Roleta americana)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta americana",
+    "Roleta francesa"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/bacanaplay-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Betano",
+   "website": "www.betano.pt",
+   "entidade": "KAIZEN GAMING INTERNATIONAL LIMITED",
+   "licencas": [
+    {
+     "numero": "017",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    },
+    {
+     "numero": "018",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta francesa",
+    "Banca francesa",
+    "Saque ou Crash"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/betano-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Betclic",
+   "website": "www.betclic.pt",
+   "entidade": "BEM OPERATIONS LIMITED",
+   "licencas": [
+    {
+     "numero": "001",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    },
+    {
+     "numero": "004",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta americana",
+    "Roleta francesa",
+    "Banca francesa",
+    "Saque ou crash"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/betclic-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Bwin",
+   "website": "www.bwin.pt",
+   "entidade": "GOBET-ENTRETENIMENTO, S.A.",
+   "licencas": [
+    {
+     "numero": "002",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    },
+    {
+     "numero": "006",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas, Blackjack/21, Bacará Ponto e Banca/Bacará Ponto e Banca Macau, Roleta Americana e Roleta Francesa)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta francesa",
+    "Saque ou Crash"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/bwin-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Casino Portugal",
+   "website": "www.casinoportugal.pt",
+   "entidade": "SFP ONLINE S.A.",
+   "licencas": [
+    {
+     "numero": "007",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    },
+    {
+     "numero": "009",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas, Blackjack/21, Bacará Ponto e Banca/Bacará Ponto e Banca Macau, Roleta Americana e Roleta Francesa)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Bacará Ponto e Banca/Bacará Ponto e Banca Macau",
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta americana",
+    "Roleta francesa",
+    "Saque ou Crash"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/casino-portugal-e-legal-em-portugal/"
+  },
+  {
+   "marca": "ESC Online",
+   "website": "www.estorilsolcasinos.pt",
+   "entidade": "ESTORIL SOL DIGITAL, ONLINE GAMING PRODUCTS AND SERVICES, S.A.",
+   "licencas": [
+    {
+     "numero": "003",
+     "tipo": "Jogos de fortuna ou azar (Blackjack/21, Jogos de máquinas e Roleta francesa)",
+     "suspensa": false
+    },
+    {
+     "numero": "008",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta francesa",
+    "Banca francesa",
+    "Roleta americana",
+    "Póquer em modo de torneio, incluindo em regime de liquidez partilhada",
+    "Póquer na variante «Hold´em» , incluindo em regime de liquidez partilhada",
+    "Póquer na variante «Omaha», incluindo em regime de liquidez partilhada",
+    "Saque ou Crash"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/esc-online-e-legal-em-portugal/"
+  },
+  {
+   "marca": "GoldenPark",
+   "website": "www.goldenpark.pt",
+   "entidade": "Azartia Games, S.A.",
+   "licencas": [
+    {
+     "numero": "029",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    },
+    {
+     "numero": "030",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Jogos de máquinas"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/goldenpark-e-legal-em-portugal/"
+  },
+  {
+   "marca": "LeBull",
+   "website": "www.lebull.pt",
+   "entidade": "SOUTHERN STINGRAY, S.A.",
+   "licencas": [
+    {
+     "numero": "027",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    },
+    {
+     "numero": "028",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Jogos de máquinas"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/lebull-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Luckia",
+   "website": "www.luckia.pt",
+   "entidade": "LUCKIA PORTUGAL, S.A.",
+   "licencas": [
+    {
+     "numero": "014",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": true
+    },
+    {
+     "numero": "015",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Jogos de máquinas",
+    "Roleta francesa"
+   ],
+   "jogos_suspensos": [
+    "Apostas desportivas à cota"
+   ],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/luckia-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Moosh",
+   "website": "www.moosh.pt",
+   "entidade": "CARAVEL ENTERTAINMENT LIMITED",
+   "licencas": [
+    {
+     "numero": "019",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": true
+    },
+    {
+     "numero": "020",
+     "tipo": "Jogos de fortuna ou azar (Blackjack/21, Jogos de máquinas, Roleta americana, Roleta francesa)",
+     "suspensa": true
+    }
+   ],
+   "jogos_autorizados": [],
+   "jogos_suspensos": [],
+   "estado": "suspensa",
+   "pagina": "https://www.jogalegal.com/moosh-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Nossa Aposta",
+   "website": "www.nossaaposta.pt",
+   "entidade": "A NOSSA APOSTA - JOGOS E APOSTAS ONLINE, S.A.",
+   "licencas": [
+    {
+     "numero": "011",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    },
+    {
+     "numero": "012",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": true
+    }
+   ],
+   "jogos_autorizados": [
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta francesa"
+   ],
+   "jogos_suspensos": [
+    "Apostas desportivas à cota"
+   ],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/nossa-aposta-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Placard",
+   "website": "www.placard.pt",
+   "entidade": "SAS APOSTAS SOCIAIS, JOGOS E APOSTAS ONLINE, S.A.",
+   "licencas": [
+    {
+     "numero": "013",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    },
+    {
+     "numero": "026",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas e Roleta francesa)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta francesa",
+    "Banca francesa",
+    "Saque ou Crash"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/placard-e-legal-em-portugal/"
+  },
+  {
+   "marca": "PokerStars",
+   "website": "www.pokerstars.pt",
+   "entidade": "REEL EUROPE LIMITED",
+   "licencas": [
+    {
+     "numero": "005",
+     "tipo": "Jogos de fortuna ou azar (Póquer em modo de torneio, Póquer na variante «Hold´em», Póquer na variante «Omaha», Blackjack/21 e Roleta Francesa)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Póquer em modo de torneio (incluindo em regime de liquidez partilhada)",
+    "Póquer na variante «Hold´em» (incluindo em regime de liquidez partilhada)",
+    "Póquer na variante «Omaha» (incluindo em regime de liquidez partilhada)",
+    "Roleta Francesa"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/pokerstars-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Retabet",
+   "website": "www.retabet.pt",
+   "entidade": "Retabet Portugal, S.A.",
+   "licencas": [
+    {
+     "numero": "033",
+     "tipo": "Apostas desportivas à cota",
+     "suspensa": false
+    },
+    {
+     "numero": "034",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Jogos de máquinas"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/retabet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Solverde",
+   "website": "www.solverde.pt",
+   "entidade": "SOLVERDE - SOCIEDADE DE INVESTIMENTOS TURÍSTICOS DA COSTA VERDE, S.A.",
+   "licencas": [
+    {
+     "numero": "010",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas e Roleta Francesa)",
+     "suspensa": false
+    },
+    {
+     "numero": "024",
+     "tipo": "Apostas desportivas à cota, em que o jogador joga contra a entidade exploradora",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Apostas desportivas à cota",
+    "Banca francesa",
+    "Blackjack/21",
+    "Jogos de máquinas",
+    "Roleta francesa",
+    "Saque ou Crash"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/solverde-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Versus",
+   "website": "www.versusbet.pt",
+   "entidade": "VERSUS PORTUGAL SA",
+   "licencas": [
+    {
+     "numero": "023",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Jogos de máquinas",
+    "Blackjack/21",
+    "Roleta francesa"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/versus-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Vincino",
+   "website": "www.vincino.pt",
+   "entidade": "Play Jogo Limited",
+   "licencas": [
+    {
+     "numero": "035",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas, Blackjack/21, Roleta americana e Roleta francesa)",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Jogos de máquinas",
+    "Blackjack/21",
+    "Roleta americana",
+    "Roleta francesa"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/vincino-e-legal-em-portugal/"
+  },
+  {
+   "marca": "YOBINGO",
+   "website": "www.yobingo.pt",
+   "entidade": "BINGOSOFT P.L.C.",
+   "licencas": [
+    {
+     "numero": "031",
+     "tipo": "Jogos de fortuna ou azar (Jogos de máquinas e roleta francesa)",
+     "suspensa": false
+    },
+    {
+     "numero": "032",
+     "tipo": "Bingo",
+     "suspensa": false
+    }
+   ],
+   "jogos_autorizados": [
+    "Jogos de máquinas",
+    "Roleta francesa",
+    "Bingo"
+   ],
+   "jogos_suspensos": [],
+   "estado": "licenciada",
+   "pagina": "https://www.jogalegal.com/yobingo-e-legal-em-portugal/"
+  }
+ ],
+ "sem_licenca": [
+  {
+   "marca": "1win",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/1win-e-legal-em-portugal/"
+  },
+  {
+   "marca": "1xBet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/1xbet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "20Bet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/20bet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "22Bet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/22bet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "888Starz",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/888starz-e-legal-em-portugal/"
+  },
+  {
+   "marca": "BC.Game",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/bc-game-e-legal-em-portugal/"
+  },
+  {
+   "marca": "BDM Bet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/bdm-bet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Bet on Red",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/bet-on-red-e-legal-em-portugal/"
+  },
+  {
+   "marca": "bet365",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/bet365-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Betfair",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/betfair-e-legal-em-portugal/"
+  },
+  {
+   "marca": "BetLabel",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/betlabel-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Bettilt",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/bettilt-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Betway",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/betway-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Billionaire Spin",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Bizzo Casino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Boomerang Bet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/boomerang-bet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Captains Bet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/captains-bet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Cashwin",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Coolzino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/coolzino-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Corgibet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/corgibet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Ginja Casino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/ginja-casino-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Ice Casino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/ice-casino-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Ivibet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/ivibet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Joker8",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Legiano",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/legiano-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Leon",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/leon-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Melbet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/melbet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Mostbet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/mostbet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "National Casino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Nine Casino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/nine-casino-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Pin-Up",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/pin-up-e-legal-em-portugal/"
+  },
+  {
+   "marca": "PlayAmo",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Rabona",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/rabona-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Roobet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/roobet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Slottica",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Spinanga",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": null
+  },
+  {
+   "marca": "Spinbetter",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/spinbetter-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Spingranny",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/spingranny-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Spinsy",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/spinsy-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Stake",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/stake-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Supabet",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/supabet-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Twin Casino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/twin-casino-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Vavada",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/vavada-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Verde Casino",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/verde-casino-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Vulkan Vegas",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/vulkan-vegas-e-legal-em-portugal/"
+  },
+  {
+   "marca": "Wazamba",
+   "estado": "nao_consta_da_lista_do_srij",
+   "pagina": "https://www.jogalegal.com/wazamba-e-legal-em-portugal/"
+  }
+ ]
+}
